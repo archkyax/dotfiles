@@ -1,3 +1,1 @@
-# dotfiles
-#   for
-#customization
+# Arch Linux Customization Dotfiles Huge Collection
